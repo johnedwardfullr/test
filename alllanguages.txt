@@ -1,0 +1,16 @@
+list of world languages
+
+english
+german
+french
+spanish
+anotherlanguage
+copy
+forget
+more info
+some more info
+etc.
+navaho
+finnish
+russian
+
